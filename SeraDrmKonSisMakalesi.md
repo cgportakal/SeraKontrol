@@ -1,5 +1,7 @@
 # SeraKontrol
-Arduino ile Sera Kontrol Sistemi veya Sera Durum Kontrol Sistemi
+# Arduino ile Sera Kontrol Sistemi veya Sera Durum Kontrol Sistemi
+Bu Proje Erciyes Üniversitesi Elektronik Devreler dersinde yapmış olduğum projedir. Proje raporu sayfada paylaşılmıştır. Geliştiricilerin yararına olmasını dilerim.
+
 Özet
 Günümüz dünyasında çok fazla yer almaya başlayan otonom sistemlerin bir örneği olan sera projemizde, arduino geliştirme kartı kullanarak geliştirilmiştir. Proje sensörlerden oluşmaktadır. Kullanıcı sensörlerden okunan değerleri izleyebilmektedir. DHT11 sensörü ile ortam sıcaklığını ve nemini, toprak nem sensörü ile toprak nemini, yağmur sensörü ile havanın yağışlı olup olmadığını, LDR ile havanın aydınlık olup olmadığını ölçüp bu bilgileri üzerinde barındırdığı ledlere, LCD ekranda ve telefon uygulamasına bluetooth ile bildirebilmektedir. Kullanıcıya ölçümlere göre öneri vererek seranın gelişimini anlık olarak takip edilebilmesini sağlamakla birlikte serada yetiştirilen bitkilerin stres, hastalık ve diğer kötü etkenlere en az derecede maruz kalmasına yardımcı olabilmektedir. Kullanıcılar isterlerse yapılan bu projeyi kendi ihtiyaçları doğrultusunda değiştirebilmekte ekleme veya çıkarmalar yapabilmektedir.
 
