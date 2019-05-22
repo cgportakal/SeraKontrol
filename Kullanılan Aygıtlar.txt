@@ -1,0 +1,10 @@
+Arduino Uno
+LCD Display 16*2
+Potasyometre
+Ledler
+Dirençler
+Kablolar
+LDR Işık Sensörü
+DHT11 Sıcaklık ve Nem Sensörü
+Toprak Nem Sensörü
+Yağmur Sensörü
